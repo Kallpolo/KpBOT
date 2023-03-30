@@ -17,7 +17,7 @@
 <h6><p>Note: pastikan filenya ditaro yang benar, (cd /sdcard/KpBOT) untuk file yang didalam SDCARD, (cd /sdcard/Download/KpBOT) untuk file yang didalam folder DOWNLOAD. KpBOT itu nama file SC-nya kalo nama file kalian beda isi dan sesuaikan nama file kalian, Perhatikan huruf dan spasi disetiap command dengan benar, karna akan terjadi error jika commandnya tidak sesuai.</p></h6>
 
 <p align="center">
-<a href="https://www.mediafire.com/file/5sq0a2xofr0v32o/node_modules.zip/file"><img title="mediafire" src="https://img.shields.io/badge/Download node_modules disini-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://www.mediafire.com/file/5sq0a2xofr0v32o/node_modules.zip/file"><img title="mediafire" src="https://img.shields.io/badge/Download node_modules disini-blue?colorA=%0198ff&style=for-the-badge"></a>
 </p>
 
 ---
