@@ -21,6 +21,7 @@
 </p>
 
 <p>Ekstrak/Simpen folder node_modules didalam folder KpBOT</p>
+<p>"maklum user hp gbsa up file besar jdi di pisah:v"</p>
 
 ---
 
