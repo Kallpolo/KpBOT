@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["19029055325@s.whatsapp.net","19029055325@s.whatsapp.net"],
+    "ownerName": "Kallpolo",
+    "instagram" : "https://www.instagram.com/kallpolo/",
+    "gcwa" : "https://chat.whatsapp.com/GF1GCWbhu7Z7Ym2B5OJY9E",
+    "botName": "KpBOT-Mdོ ",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./kp.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "jid": "19029055325@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281310165338@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 16
+      },
+      {
+        "nama": "#stickerwm",
+        "count": 1
+      },
+      {
+        "nama": "#smeme",
+        "count": 1
+      }
+    ]
+  }
+]
