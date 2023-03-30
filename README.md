@@ -20,8 +20,10 @@
 <a href="https://www.mediafire.com/file/5sq0a2xofr0v32o/node_modules.zip/file"><img title="mediafire" src="https://img.shields.io/badge/Download node_modules disini-blue?colorA=%0198ff&style=for-the-badge"></a>
 </p>
 
-<p>Ekstrak/Simpen Folder node_modules didalam Folder KpBOT</p>
+<p>Ekstrak/Simpen folder node_modules didalam folder KpBOT</p>
+
 ---
+
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=19029055325&text=.menu"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp KpBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge&logo=whatsapp"></a>
 </p>
