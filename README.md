@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=19029055325&text=.menu"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp KpBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://api.whatsapp.com/send?phone=08&text=.menu"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp KpBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge&logo=whatsapp"></a>
 </p>
