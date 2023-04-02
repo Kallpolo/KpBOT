@@ -9,11 +9,11 @@
 
 ## Command Termux:
 ```
-<p>$ pkg update && pkg upgrade</p>
-<p>$ pkg install bash</p>
-<p>$ termux-setup-storage</p>
-<p>$ cd /sdcard/KpBOT</p>
-<p>$ bash install.sh</p>
+$ pkg update && pkg upgrade
+$ pkg install bash
+$ termux-setup-storage
+$ cd /sdcard/KpBOT
+$ bash install.sh
 ```
 
 <h6><p>Note: pastikan filenya ditaro yang benar, (cd /sdcard/KpBOT) untuk file yang didalam SDCARD, (cd /sdcard/Download/KpBOT) untuk file yang didalam folder DOWNLOAD. KpBOT itu nama file SC-nya kalo nama file kalian beda isi dan sesuaikan nama file kalian, Perhatikan huruf dan spasi disetiap command dengan benar, karna akan terjadi error jika commandnya tidak sesuai.</p></h6>
